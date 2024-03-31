@@ -18,7 +18,7 @@ import (
 
 var (
     Logger    = logging.Logger
-    capSolver = capsolver_go.CapSolver{ApiKey: "CAI-83E66B6FCA907F945308B126B8DA05BD"}
+    capSolver = capsolver_go.CapSolver{ApiKey: "CAP-5F6720E4AA2E00A22AC507E7E9522E43"}
 )
 
 type Webshare struct {
